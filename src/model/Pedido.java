@@ -1,6 +1,7 @@
 package model;
 
 import java.sql.Date; // IMPORTANTE: Usar java.sql.Date para compatibilidade com JDBC
+import model.StatusPedido;
 
 public class Pedido {
     private int id_pedido;
