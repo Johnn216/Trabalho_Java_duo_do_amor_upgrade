@@ -2,9 +2,9 @@
 Muito Amor, Programa e Java
 
 
-# Trabalho para seminário da matéria de Banco de dados
-## Sistema de lavanderia integrado no Banco de dados real, integração feita com a Linguagem Java por meio do método JDBC
-### Sistema simples com o formato de Crud 
+
+# Sistema de lavanderia integrado no Banco de dados real, integração feita com a Linguagem Java por meio do método JDBC
+## Sistema simples com o formato de Crud 
 
  ## Sistema de Gerenciamento de Lavanderia (JDBC)Este projeto é uma aplicação Java console (CLI) desenvolvida para gerenciar o fluxo de trabalho de uma lavanderia, utilizando o JDBC (Java Database Connectivity) para interagir com um banco de dados MySQL. O foco principal é demonstrar o uso do padrão DAO/Repository para operações CRUD (Create, Read, Update, Delete).
  ### Tecnologias Utilizadas:
